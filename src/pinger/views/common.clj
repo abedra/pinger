@@ -10,7 +10,7 @@
                  "/css/bootstrap.min.css"
                  "/css/application.css")
     (include-js "/js/jquery.js"
-                "/js/formdefaults.js"
+                "/js/jquery.form-defaults.js"
                 "/js/application.js")]
    [:body
     [:div.container
